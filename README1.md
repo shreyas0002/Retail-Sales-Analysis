@@ -11,28 +11,7 @@ An end-to-end Retail Sales Analysis project designed to analyze sales performanc
 - MySQL
 - Power BI
 - Jupyter Notebook
-- Excel
-
-## Project Structure
-
-Retail-Sales-Analysis/
-│
-├── data/
-│   ├── Retail_Sales_Analysis_Raw_Dataset.xlsx
-│   └── df_clean.xlsx
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   └── mysql_connection.ipynb
-│
-├── sql/
-│   └── sales_analysis.sql
-│
-├── report/
-│   └── Dashboard.pbix
-│
-└── README.md
-
+- 
 ## Project Workflow
 
 ### 1. Data Preparation
